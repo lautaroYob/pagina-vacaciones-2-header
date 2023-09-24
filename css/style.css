@@ -1,5 +1,8 @@
+/* este narvar es el link que por alguna razon con la imagen se agranda entoses con el widht lo hachico y hago que quede mejor algo asi tag A[img NIKE] */
+
 .narvbar{
-    margin-right: 35%;
+    /* margin-right: -100%; */
+    width: 40%;
 }
 
 /* .desplegable:hover{
@@ -8,4 +11,8 @@
 
 .nav-item:hover{
     border-bottom: solid 2px rgb(0, 0, 0);
+}
+
+.logo{
+    width: 20%;
 }
