@@ -1,3 +1,11 @@
 .narvbar{
     margin-right: 35%;
 }
+
+/* .desplegable:hover{
+    border-bottom: solid 1px red;
+} */
+
+.nav-item:hover{
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
