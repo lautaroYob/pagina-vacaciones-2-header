@@ -2,12 +2,14 @@
 
 .narvbar{
     /* margin-right: -100%; */
-    width: 40%;
+    width: 24%;
+    /* position: fixed; */
 }
 
-/* .desplegable:hover{
-    border-bottom: solid 1px red;
-} */
+/* este margin es para que con el position fixed que bien  */
+.desplegable1{
+    /* margin-left: 50%; */
+} 
 
 .nav-item:hover{
     border-bottom: solid 2px rgb(0, 0, 0);
@@ -15,4 +17,9 @@
 
 .logo{
     width: 20%;
+}
+
+/* esto es el boton que aparece cuendo se achica la pantalla */
+.navbar-toggler{
+    /* margin-left: 70%; */
 }
